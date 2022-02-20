@@ -1,4 +1,4 @@
-# Desafio 01 :rocket
+# Desafio 01 🚀
 
 Ignite Desafio 01 - Trilha React
 
